@@ -1,9 +1,9 @@
 body{
   background-image: url(bd.jpg);
-  background-repeat: no-repeat;
   //background-position: center;
   //background-attachement: fixed;
   background-size: cover;
+  background-repeat: no-repeat;
   //display: flex;
   //justify-content: center;
   //align-items: center;
