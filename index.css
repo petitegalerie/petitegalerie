@@ -23,6 +23,23 @@ translate: -50% -50%;
 
 }
 
+.card-image {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+ border: 1px #aaa solid;
+ text-align: center;
+display: table-cell;
+ vertical-align: middle;
+ }
+ 
+.imgcadre{
+ 
+  width: 100%;
+  height: auto;
+ 
+}
+
 img{
   width: 100%;
   height: 100%;
