@@ -3,7 +3,8 @@ body{
   //background-position: center;
   //background-attachement: fixed;
   //background-size: cover;
-  background-size: 100%;
+  background-repeat: no-repeat;
+  background-size: auto;
   //display: flex;
   //justify-content: center;
   //align-items: center;
