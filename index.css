@@ -5,6 +5,7 @@ body{
 #container{
   background-image: url(ok.png);
   background-size: 100% 80%;
+  background-repeat: no-repeat;
   width: 455px;
   height: 620px;
 
