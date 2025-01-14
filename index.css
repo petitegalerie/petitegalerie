@@ -55,7 +55,8 @@ button{
   background-color: #EF233C;
   background-image: url(switch.png);
   background-size: 25% 90%;
-  background-repeat: no-repeat;  
+  background-repeat: no-repeat;
+  background-position: center;  
 }
 
 button:hover{
